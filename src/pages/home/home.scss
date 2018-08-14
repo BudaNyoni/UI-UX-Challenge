@@ -1,0 +1,132 @@
+page-home {
+.background{
+    background-image:
+    linear-gradient(rgba(0, 0, 0, 0.5)), url('../../assets/713286f102cafc4a77706f5f9a47dc67.jpg');
+    // background: rgba(0,0,0,0.5);
+    background-size: cover;
+    height: 100vh;
+   
+    left: 0;
+    right: 0;
+    top: 0;
+    position: fixed;
+    filter: blur(3px);
+    -webkit-filter: blur(3px);
+    background-repeat: no-repeat;
+    z-index: -1;
+}
+ion-buttons{
+    // margin: 60px;
+    margin-top: 0;
+    // color: white;
+    
+}
+.button{
+//    background-color: white;
+}
+.bg{
+  
+    font-family: 'Ranga', cursive;
+font-family: 'Asap', sans-serif;
+font-family: 'Exo', sans-serif;
+}
+// h1{
+//     z-index: 2;
+//     left: 10px;
+   
+// }
+.text{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    justify-content: inherit;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Do Hyeon', sans-serif;
+    font-family: 'Noto Serif', serif;
+    font-family: 'Work Sans', sans-serif;
+    font-family: 'Petrona', serif;
+    font-family: 'Voces', cursive;
+    font-family: 'Cantora One', sans-serif;
+}
+img{
+    height: 150px;
+    color: white;
+}
+.head{
+    font-size: 45px;
+    
+}
+hr{
+    color: white;
+    font-size: 10px;
+}
+.i{
+ color: white;
+ padding: 25px;
+//  height: 40px;
+ width: 72px;
+ text-align: center;
+ margin-right: 30px;
+ border-radius: 60px;
+//  box-shadow: 2px 2px 4px 3px rgba(0, 0, 0, 0.74) ;
+ border: 2px solid;
+//  margin-right:40px;
+}
+.con{
+    padding: 15px;
+}
+
+.ico{
+    margin: 5px;
+    color:white;
+    padding: 35px;
+}
+ion-header{
+ display: flex;
+// margin-right: 60px;
+
+//  right: 0;
+//  width: 20px;
+//  align-content: center;
+//  justify-content: center;
+margin-top: 18px;
+}
+p{
+    font-size: 18px;
+}
+
+.i1{
+    // margin-left: 60px;
+    // border: none;
+    margin: 36px;
+    width: 28%;
+    background: white;
+    
+
+    margin-top: 5px;
+}
+.i2{
+    // margin-right: 40px;
+    margin-left: 110px;
+    margin-top: 5px;
+}
+/*.color{
+    height: 100vh;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.74);
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}*/
+ .line{
+     display: flex;
+
+ }
+//  .i{
+//     margin-right: 30px;
+// }
+}
+
